@@ -2,6 +2,20 @@
 ROUTE GUIDANCE PROTOCOL [VANETS]
 ====================================
 
+INTRODUCTION
+============
+
+In today’s world, the number of vehicles on road is increasing at a rapid
+rate contributing to an increase in congestion on the road. This has necessitated the need for a system to assist the drivers during travel. Many solutions do exist for this aspect but have certain short-comings. They are either very expensive (in the case of infrastructure based solutions) or not accurate (in case of
+decentralized solutions operating based on historic data).
+
+In an attempt to alleviate these issues, we present a decentralized solution
+for route guidance which takes into account the dynamic nature of traffic and
+operates based on real-time traffic information rather than historic data. The
+motivation for this endeavor lies in the following assumptions and inferences:
+although patterns in traffic can be obtained for a road, on a given day there will be many deviations from the expected pattern and hence using the real-time
+traffic information is much more accurate than using pre-computed data.
+
 SCOPE
 =====
 
